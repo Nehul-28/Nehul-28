@@ -4,7 +4,7 @@
 
 - 💻 **Passionate Developer** | Crafting clean, efficient, and innovative code.
 - 🌱 **Lifelong Learner** | Continuously exploring new technologies and tools.
-- 🛠 **Tech Enthusiast** | Experienced in [Your Primary Technologies e.g., Python, JavaScript, etc.].
+- 🛠 **Tech Enthusiast** | Experienced in Python
 
 ---
 
