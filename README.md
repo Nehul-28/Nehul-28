@@ -24,7 +24,7 @@ PYTHON , Sql ,Networking,c++
 
 ## 🌐 Connect with Me
 
-- [LinkedIn] https://www.linkedin.com/in/nehul-vats-a77a22324?
+- [LinkedIn] https://www.linkedin.com/in/nehul-vats-a77a22324
 - [Twitter](Your Twitter)
 
 
