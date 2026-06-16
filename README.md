@@ -19,14 +19,12 @@
 
 ## 🔧 Technologies & Tools
 
-PYTHON , Sql ,Networking,c++
+PYTHON , Sql ,Networking, c, c++, java
 ---
 
 ## 🌐 Connect with Me
 
 - [LinkedIn] https://www.linkedin.com/in/nehul-vats-a77a22324
-- [Twitter](Your Twitter)
-
 
 ---
 
@@ -36,13 +34,7 @@ PYTHON , Sql ,Networking,c++
 
 ---
 
-## 📂 Latest Projects
 
-- **Project 1 Name**: Brief description of what this project does.
-- **Project 2 Name**: Brief description of what this project does.
-- **Project 3 Name**: Brief description of what this project does.
-
-Check out the rest of my repositories for more exciting projects!
 
 ---
 
